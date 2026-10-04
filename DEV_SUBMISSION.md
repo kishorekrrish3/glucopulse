@@ -172,7 +172,9 @@ When dealing with chronic health conditions like pre-diabetes, **open innovation
 
 This project was developed with the assistance of an autonomous coding agent. The session transcript captures the entire development process — from diagnosing TabPFN license dependencies to architecting the dual-mode Bayesian engine, crafting the Recharts visualization curves, and structuring the production Render deployment.
 
-{% agent_session d11d18d1-55e0-4099-9410-5b99a9e04a52 %}
+{% agent_session 450 %}
+
+🔗 **Interactive DevRelay Transcript:** [View Agent Session #450 on DEV](https://dev.to/agent_sessions/building-glucopulse-open-source-ai-metabolic-guardian-tabpfn-gemma-render-4tvtfa)
 
 ---
 
